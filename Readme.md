@@ -8,12 +8,6 @@ https://github.com/evoiz/Agentic-Design-Patterns
 
 <br/>
 
-## 📖 About This Repository
-
-This repository contains the complete materials for **"Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems"** by Antonio Gulli. It includes all chapters in PDF format and accompanying code notebooks for hands-on learning.
-
-> **Note**: All author royalties are donated to Save the Children 💝
-
 ## 🎯 What You'll Learn
 
 This comprehensive guide covers 21 chapters and 7 appendices on building intelligent AI agent systems, including:
