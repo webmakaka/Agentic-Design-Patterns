@@ -79,19 +79,6 @@ This comprehensive guide covers 21 chapters and 7 appendices on building intelli
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-```bash
-# Python 3.8 or higher required
-$ python --version
-
-# Install Jupyter for notebooks
-$ pip install jupyter notebook
-
-# Install common dependencies
-$ pip install -r requirements.txt
-```
-
 ### Installation
 
 1. **Clone the repository**
