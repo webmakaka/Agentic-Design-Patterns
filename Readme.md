@@ -1,4 +1,4 @@
-# 📚 Agentic Design Patterns - A Hands-On Guide to Building Intelligent Systems
+# 📚 [Book][Antonio Gulli] Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems [ENG, 2025]
 
 **Original:**  
 https://github.com/evoiz/Agentic-Design-Patterns
