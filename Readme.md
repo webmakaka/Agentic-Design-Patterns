@@ -85,7 +85,7 @@ This comprehensive guide covers 21 chapters and 7 appendices on building intelli
 
 ```bash
 $ git clone https://github.com/webmakaka/Agentic-Design-Patterns.git
-$ cd Agentic-Design-Patterns
+$ cd Agentic-Design-Patterns/notebooks
 ```
 
 2. **Set up virtual environment** (recommended)
