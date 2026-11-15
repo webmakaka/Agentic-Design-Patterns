@@ -1,21 +1,4 @@
-# Agentic Design Patterns - Code Notebooks
-
-## About
-Code notebooks for the book **"Agentic Design Patterns"** by Antonio Gulli.
-All 21 chapters have complete, runnable code examples — 58 notebooks covering multiple frameworks per chapter.
-
-## Book Information
-- **Title**: Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems
-- **Author**: Antonio Gulli — [LinkedIn](https://www.linkedin.com/in/searchguy/)
-- **Pre-order**: [Amazon](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
-- **Charity**: All author royalties are donated to Save the Children.
-
-## File Structure
-Naming convention: `Chapter_XX_Topic_(Variant).ipynb`
-
-Each chapter may have multiple notebooks for different framework implementations (Google ADK, LangChain, CrewAI, etc.).
-
-## Notebooks
+# Notebooks
 
 ### Chapter 1: Prompt Chaining
 - `Chapter_01_Prompt_Chaining_(Code_Example).ipynb`
@@ -133,11 +116,8 @@ Each chapter may have multiple notebooks for different framework implementations
 4. Open any notebook and start learning!
 
 ## Requirements
-```bash
-pip install jupyter notebook ipykernel
-pip install pandas numpy matplotlib  # Common dependencies
-```
 
-## Sources
-- [Table of Contents](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit)
-- [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1Y3U3IrYCiJ3E45Z8okR5eCg7OPnWQtPV)
+```bash
+$ pip install jupyter notebook ipykernel
+$ pip install pandas numpy matplotlib  # Common dependencies
+```
