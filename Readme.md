@@ -8,11 +8,6 @@ https://github.com/evoiz/Agentic-Design-Patterns
 
 <br/>
 
-[![Book](https://img.shields.io/badge/Book-Pre--order-blue)](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
-[![Author](https://img.shields.io/badge/Author-Antonio%20Gulli-green)](https://www.linkedin.com/in/searchguy/)
-[![Charity](https://img.shields.io/badge/Royalties-Save%20the%20Children-red)](https://www.savethechildren.org/)
-[![License](https://img.shields.io/badge/License-Educational-yellow)]()
-
 ## 📖 About This Repository
 
 This repository contains the complete materials for **"Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems"** by Antonio Gulli. It includes all chapters in PDF format and accompanying code notebooks for hands-on learning.
@@ -30,22 +25,7 @@ This comprehensive guide covers 21 chapters and 7 appendices on building intelli
 - **Optimization**: Resource-aware patterns, reasoning techniques, guardrails
 - **Real-world Applications**: From GUI to real-world environments
 
-## 📁 Repository Structure
-
-```
-.
-├── 📄 README.md                           # This file
-├── 📚 book/
-│   └── Agentic_Design_Patterns_Complete.pdf  # Complete book (424 pages)
-├── 💻 chapter_notebooks/                          # Chapter 
-│   ├── Chapter_01_Prompt_Chaining.ipynb
-│   ├── Chapter_02_Routing.ipynb
-│   ├── Chapter_03_Parallelization.ipynb
-│   ├── ...
-│   └── Appendix_G_Coding_Agents.ipynb
-
-
-```
+---
 
 ## 📚 Table of Contents
 
@@ -95,10 +75,7 @@ This comprehensive guide covers 21 chapters and 7 appendices on building intelli
 - **Appendix F**: Under the Hood: Reasoning Engines
 - **Appendix G**: Coding agents
 
-### Conclusion & References
-- Conclusion
-- Glossary
-- Index of Terms
+---
 
 ## 🚀 Getting Started
 
@@ -179,84 +156,10 @@ jupyter notebook Chapter_01_Prompt_Chaining.ipynb
 3. Extend patterns for new use cases
 4. Contribute improvements back
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
-
-### Ways to Contribute
-- 🐛 Report bugs and issues
-- 💡 Suggest new features or patterns
-- 📝 Improve documentation
-- 🔧 Submit code improvements
-- 🌍 Translate materials
-
-### Contribution Process
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📚 Additional Resources
-
-### Official Links
-- 📖 [Pre-order the Book](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
-- 👨‍💼 [Author's LinkedIn](https://www.linkedin.com/in/searchguy/)
-- 📁 [Original Google Drive Materials](https://drive.google.com/drive/u/0/folders/1Y3U3IrYCiJ3E45Z8okR5eCg7OPnWQtPV)
-
-### Related Frameworks
-- [LangChain](https://langchain.com/)
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-- [OpenAI Assistants](https://platform.openai.com/assistants)
-- [Microsoft AutoGen](https://github.com/microsoft/autogen)
-- [CrewAI](https://www.crewai.com/)
-
 ### Learning Path
 1. **Beginners**: Start with Chapters 1-7 (Core Patterns)
 2. **Intermediate**: Progress through Chapters 8-14 (Advanced & Production)
 3. **Advanced**: Master Chapters 15-21 (Enterprise Patterns)
 4. **Experts**: Explore Appendices for cutting-edge techniques
 
-## ⚖️ License
 
-This repository is for educational purposes. Please respect the author's copyright and intellectual property rights.
-
-- **Book Content**: © Antonio Gulli - All rights reserved
-- **Code Examples**: MIT License (see LICENSE file)
-- **Educational Use**: Permitted with attribution
-
-## 🙏 Acknowledgments
-
-- **Antonio Gulli** - Author and AI thought leader
-- **Save the Children** - Beneficiary of all book royalties
-- **Contributors** - Everyone who helps improve these materials
-- **Community** - Learners and practitioners advancing AI agents
-
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/evoiz/Agentic-Design-Patterns/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/evoiz/Agentic-Design-Patterns/discussions)
-- **Author**: [LinkedIn](https://www.linkedin.com/in/searchguy/)
-
-## 🌟 Star History
-
-If you find this repository useful, please consider giving it a star ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=evoiz/agentic-design-patterns&type=Date)](https://star-history.com/#evoiz/agentic-design-patterns&Date)
-
-## 📊 Repository Stats
-
-![GitHub last commit](https://img.shields.io/github/last-commit/evoiz/agentic-design-patterns)
-![GitHub issues](https://img.shields.io/github/issues/evoiz/agentic-design-patterns)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/evoiz/agentic-design-patterns)
-![GitHub](https://img.shields.io/github/license/evoiz/agentic-design-patterns)
-
----
-
-<p align="center">
-  <strong>Building the future of AI, one pattern at a time 🚀</strong>
-</p>
-
-<p align="center">
-  Made with ❤️ for the AI community
-</p>
