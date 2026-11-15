@@ -4,3 +4,5 @@ numpy
 matplotlib 
 openai 
 langchain
+crewai 
+langchain-openai
