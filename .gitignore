@@ -1,8 +1,23 @@
 # macOS
 .DS_Store
 
-# Python (lab virtualenvs and caches)
+# Переменные окружения и секреты
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# Python и виртуальные окружения
 .venv/
+venv/
+env/
 __pycache__/
-*.pyc
-.fastembed_cache/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
