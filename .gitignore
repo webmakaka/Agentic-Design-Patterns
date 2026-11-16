@@ -1,7 +1,7 @@
 # macOS
 .DS_Store
 
-# Переменные окружения и секреты
+# Environment variables and secrets
 .env
 .env.*
 !.env.example
@@ -10,7 +10,7 @@
 secrets.json
 credentials.json
 
-# Python и виртуальные окружения
+# Python and virtual environments
 .venv/
 venv/
 env/
